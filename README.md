@@ -127,4 +127,3 @@ graph TD
 
 ---
 
-**Author**: Built as a high-performance AI demonstration.
